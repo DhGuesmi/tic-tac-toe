@@ -1,5 +1,3 @@
-from typing import List
-
 game = [[" ", " ", " "], [" ", " ", " "], [" ", " ", " "]]
 
 
@@ -66,8 +64,3 @@ while True:
             player = "O"
         else:
             player = "X"
-
-
-
-
-
